@@ -1,0 +1,40 @@
+# PeopleU Subscription Pricing Analysis and Evaluation
+
+## Project Overview
+PeopleU is a B2B SaaS subscription platform dedicated to driving market 
+penetration and operational growth. This project was conducted as part of 
+RevoU Data Insight Project, a 4-week case study supervised by RevoU designed 
+to analyze customized datasets and address real business challenges.
+
+**Background Problem:**
+PeopleU's subscription prices are significantly higher than the market average, 
+creating barriers to new customer acquisition amid intense competition from 
+local HRMS providers.
+
+---
+
+## Objectives
+- Evaluate the impact of promotional strategies on contract volume and revenue
+- Calculate Price Elasticity of Demand (PED) per subscription segment
+- Formulate industry-specific acquisition and retention recommendations
+
+---
+
+## Tools & Technologies
+- **Language:** Python, SQL
+- **Libraries:** Pandas, NumPy
+- **Environment:** Google Colab / Jupyter Notebook
+
+---
+
+## Key Findings
+- The 2022 "Bigger Promotion" strategy tripled contract volume with **+212% 
+  growth in realized revenue**
+- Price sensitivity varies significantly across Business, Startup, and 
+  Enterprise segments
+- High-potential customer profiles identified in F&B, Technology, and Finance 
+  sectors
+
+---
+
+## Project Structure
